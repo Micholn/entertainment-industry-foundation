@@ -1,0 +1,61 @@
+1. I am sending you a total of three templates( Choose one you feel best suit the needs of the customer which will be attached below)
+
+2. The chosen template logo should be changed to digital-dada's logo( which will be provided below or the customer's logo)
+
+3. In the source code of the template, remove all indication to the template especially in the title tag, image alt tag, site favicon and so on
+
+4. The demo site of the template will be provided for you to get the images (because they may most likely not come along with images). Use inspect and chrome dev tools to get the images from the demo site
+
+5. you can use sites like pexels.com or pixabay.com to source for additional images (if needed)
+
+6. You use a site like remove.bg to remove background(if needed)
+
+7. Produce a neat work and let your code be well commented
+
+8. If you have any additional questions please let me know.
+
+The text below are the needs of the customer to let you know the expectations of the customer
+(note the information is from our trello board(our team coordination board) follow accordingly. Also, the customer's images will also be attached below as well as the templates which will come in a zip folder....I will send you the remaining template via google drive
+
+herve keutcha 5 hours ago
+Facebook.com/nickoftime2020
+LinkedIn.com/nickoftime2020
+
+Web: www.apexsouthFlorida.com
+
+Phone: (239) 223-7655
+Email: apexroofing.nickb@gmail.com
+
+Calendar:
+Nick Briggs
+
+Reply - Add Link as Attachment
+Sambhav Gore (sambhavgore2)
+Sambhav Gore Feb 6 at 10:38 PM (edited)
+Copy contents from https://apexroofs.com/insurance-claims/
+
+Customer will send clear looking picture of his own.
+
+Customer wants the site to be a "Personal Brand Website".
+Clear picture, clear contact information, Calendly Integration for Appointments. Contact form.
+
+Reply - Add Link as Attachment
+herve keutcha (hervekeutcha)
+herve keutcha Feb 5 at 11:50 PM
+Nicholas Briggs
+Roof Contractor & Consultant
+Apex Roofing & Restoration
+p: (239) 310-4660
+m: (239) 223-7655
+a: 2054 Vista Parkway, Ste 400
+West Palm Beach, FL 33411
+w: www.apexroofs.com
+e: apexroofing.nickb@gmail.com
+
+Reply - Add Link as Attachment
+herve keutcha (hervekeutcha)
+herve keutcha Feb 5 at 11:32 PM
+promote his brand
+He sale Insurance Services
+Contact form
+Schedule Meetings with him
